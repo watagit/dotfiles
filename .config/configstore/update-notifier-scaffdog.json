@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1690195336594,
+	"update": {
+		"latest": "2.5.1",
+		"current": "2.5.0",
+		"type": "patch",
+		"name": "scaffdog"
+	}
+}
